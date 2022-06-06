@@ -32,3 +32,16 @@
     border: 0;
     width: 450px;
 }
+
+.ms_container{
+    background-image: url(../img/jumbo-bg.png);
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+}
+
+.ms_position_absolute{
+    position: absolute;
+    top: 250px;
+    left: 10px;
+}
