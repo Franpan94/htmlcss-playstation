@@ -84,3 +84,11 @@
    filter: opacity(0.5);
    border: 0;
 }
+
+.bg_blue_color{
+    background-color: rgb(3, 3, 62);
+}
+
+footer{
+    background-color: dodgerblue;
+}
