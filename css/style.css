@@ -74,3 +74,13 @@
 .msb_color{
     color: black;
 }
+
+.bg_color{
+    background-color: gray;
+}
+
+.ms_button{
+   color: rgb(10, 116, 221);
+   filter: opacity(0.5);
+   border: 0;
+}
