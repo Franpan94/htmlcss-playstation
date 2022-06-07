@@ -60,6 +60,10 @@
     padding-top: 80px;
 }
 
+.ms_pt_6{
+    padding-top: 60px;
+}
+
 .ms_color{
     color: dodgerblue;
 }
@@ -89,6 +93,27 @@
     background-color: rgb(3, 3, 62);
 }
 
-footer{
-    background-color: dodgerblue;
+.ms_width_9{
+    width: 90%;
 }
+
+footer{
+    padding-top: 100px;
+}
+
+.bgc_color{
+    background-color: rgb(11, 81, 151);
+}
+
+.ms_w2{
+    width: 20%;
+}
+
+.ms_w1{
+    width: 5%;
+}
+
+.ms_link{
+    text-decoration: none;
+}
+
