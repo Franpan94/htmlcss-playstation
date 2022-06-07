@@ -50,10 +50,27 @@
     left: 10px;
 }
 
+.msb_position_absolute{
+    position: absolute;
+    top: 50px;
+    left: 100px;
+}
+
 .ms_pt_8{
     padding-top: 80px;
 }
 
 .ms_color{
     color: dodgerblue;
+}
+
+.msb_container{
+    background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 650px;
+}
+
+.msb_color{
+    color: black;
 }
