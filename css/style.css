@@ -6,6 +6,14 @@
     padding-right: 20px;
 }
 
+.ms_mg{
+    margin-top: 0 !important;
+}
+
+.m_s_border{
+    border-radius: 0;
+}
+
 .ms_radius5{
     border-radius: 50px;
 }
@@ -34,7 +42,7 @@
 
 .ms_border_width{
     border: 0;
-    width: 80vw;
+    width: 100%;
 }
 
 .ms_container{
