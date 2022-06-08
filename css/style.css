@@ -65,15 +65,25 @@
 }
 
 .ms_double_border:hover .ms_subdouble_border{
-    border: 4px solid #8e212c;
-    background-color: #dc3545;
+    border: 4px solid #8e212c; 
     padding: 6px;
 }
 
 .ms_double2_border:hover .ms_subdouble2_border{
     border: 4px solid rgb(162, 202, 241);
-    background-color: dodgerblue;
     padding: 6px;
+}
+
+.ms_double3_border:hover .ms_subdouble3_border{
+    border: 4px solid grey;
+    padding-top: 6px;
+    padding-bottom: 6px;
+}
+
+.ms_double4_border:hover .ms_subdouble4_border{
+    border: 4px solid whitesmoke;
+    padding-top: 6px;
+    padding-bottom: 6px;
 }
 
 .ms_position_absolute{
